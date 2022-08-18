@@ -12,7 +12,7 @@ using PensionMicroService.Models;
 namespace PensionMicroService.Migrations
 {
     [DbContext(typeof(PensionContext))]
-    [Migration("20220816043727_second")]
+    [Migration("20220818152512_second")]
     partial class second
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
